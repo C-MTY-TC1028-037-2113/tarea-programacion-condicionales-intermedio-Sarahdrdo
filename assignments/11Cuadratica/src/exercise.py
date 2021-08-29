@@ -22,6 +22,5 @@ def main():
         else:
             x=-b/(2*a)
             print(x)
-
 if __name__ == '__main__':
     main()
