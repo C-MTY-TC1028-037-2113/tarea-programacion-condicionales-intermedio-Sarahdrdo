@@ -14,7 +14,6 @@ def main():
         print("SOBRE")
     else:
         print("DENTRO")
-
 if __name__ == '__main__':
     main()
 
